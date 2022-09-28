@@ -9,3 +9,15 @@ header {
     text-align: center;
     padding: 2em;
 }
+
+main {
+    background-color: #395B64;
+    text-align: center;
+    padding: 2em;
+}
+
+footer {
+    background-color: #A5C9CA;
+    text-align: center;
+    padding: 2em;
+}

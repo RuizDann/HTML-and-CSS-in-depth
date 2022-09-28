@@ -2,6 +2,15 @@ body {
     margin: 20px;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 2fr 1fr;
+    /* fr means fraction */
+    gap: 10px;
+    background-color: rgb(202, 96, 96);
+}
+
 .box {
     background-color: #247;
     color: #fff;

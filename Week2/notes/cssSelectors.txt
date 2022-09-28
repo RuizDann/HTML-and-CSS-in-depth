@@ -1,0 +1,10 @@
+All selectors and their specificity
+
+Specificity hierarchy
+CSS has a set of rules that it uses to ‘score’ or assign a certain weight to selectors and this creates a specificity hierarchy.
+Based on the weights, there are four categories in this hierarchy: 
+- Inline styles 
+- IDs 
+- Classes, attributes, and pseudo-classes 
+- Elements and pseudo-elements 
+

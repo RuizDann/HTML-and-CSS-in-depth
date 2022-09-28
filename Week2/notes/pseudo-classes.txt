@@ -72,3 +72,10 @@ The “content” property is where the text for the guidelines goes.
 The word “tip” has been added before each guideline thanks to the rules added for tips::before.
 And, each of the three guidelines now has two exclamation marks after them thanks to the rules added for tips::after.
 You don’t have to use after and before together like this, but sometimes it is useful to combine them.
+
+Additional Resources:
+Comprehensive list of pseudo-classes
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
+Comprehensive list of pseudo-elements
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements

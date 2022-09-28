@@ -66,3 +66,13 @@ While the weights assigned from the hierarchical structure help in a systematic 
 - In the case of selectors with equal specificity, the latest or last written rule is the one that will be applied
 - In general, ID selector should be applied in cases where you need to be certain about a rule 
 - Universal selectors have zero specificity value
+
+Additional Resources:
+Commonly used selectors
+https://www.geeksforgeeks.org/10-css-selectors-every-developer-should-know/
+
+Combinator selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
+
+Comprehensive list of selectors
+https://www.w3schools.com/cssref/css_selectors.asp

@@ -1,0 +1,9 @@
+.a {
+    margin: 30px;
+    transform: skewX(20deg);
+}
+
+.b {
+    margin: 100px;
+    transform: rotate(20deg);
+}
